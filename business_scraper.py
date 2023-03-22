@@ -48,12 +48,11 @@ class Scraper:
 			if not next_page_href:
 				print(f'fetched {len(hrefs)} points ...')
 				break
-
 			print(f"fetching next page hrefs on {next_page_href['href']} ...")
 			soup = self.content(BASE_URL, next_page_href['href'])
-			hrefs.extend(self.find_href_tags(soup))
+			hrefs.extend(self.find_href_tags(soup))		
 		
-		return hrefs
+    return hrefs
 
 	def info(self, href):
 		print(f'fetching info on {href}')
