@@ -1,4 +1,4 @@
-./business_scraper.py --url "https://www.tripadvisor.com/Restaurants-g304082-Kosovo.html"
-./business_scraper.py --url "https://www.tripadvisor.com/Restaurants-g294446-Tirana_Tirana_County.html"
-./business_scraper.py --url "https://www.tripadvisor.co.uk/Restaurants-g4505725-Ksamil_Saranda_Vlore_County.html"
-./business_scraper.py --url "https://www.tripadvisor.com/Restaurants-g801297-Shengjin_Lezhe_County.html" 
+# ./business_scraper.py --url "https://www.tripadvisor.com/Restaurants-g304082-Kosovo.html"
+# ./business_scraper.py --url "https://www.tripadvisor.com/Restaurants-g294446-Tirana_Tirana_County.html"
+# ./business_scraper.py --url "https://www.tripadvisor.co.uk/Restaurants-g4505725-Ksamil_Saranda_Vlore_County.html"
+# ./business_scraper.py --url "https://www.tripadvisor.com/Restaurants-g801297-Shengjin_Lezhe_County.html" 
